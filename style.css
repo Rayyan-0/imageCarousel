@@ -1,0 +1,16 @@
+.imgList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.imgList img {
+    width: 25vw;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 200px;
+}
