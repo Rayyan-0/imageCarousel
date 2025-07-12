@@ -1,1 +1,1 @@
-# imageCarousel
+Proving the world wrong. I will make an image carousel with DOM manipulation tactis in less than 3 hours. Easiest challenge in my life.
